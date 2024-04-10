@@ -17,6 +17,13 @@
 
 #include <QDebug>
 
+/*
+test commit with GIT
+*/
+
+
+
+
 namespace bg = boost::geometry;
 
 BOOST_GEOMETRY_REGISTER_POINT_2D_GET_SET(QGeoCoordinate, double, cs::geographic<degree>, longitude, latitude, setLongitude, setLatitude)
